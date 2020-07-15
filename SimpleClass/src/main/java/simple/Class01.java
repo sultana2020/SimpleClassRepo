@@ -6,6 +6,8 @@ public class Class01 {
 
 		
 		System.out.println("This is Class01");
+		
+		// This a comment from GitHub Repo
 	}
 
 }
