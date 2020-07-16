@@ -7,6 +7,8 @@ public class MyClass {
 
 		
 		System.out.println("This is my class ");
+		
+		// save it to myBranch
 	}
 
 }
